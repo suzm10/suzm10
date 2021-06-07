@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on nothing specific
-- 🌱 I’m currently learning JavaScript with IBM Accelerate
+- 🌱 I’m currently learning JavaScript in the IBM Accelerate program
 - 📫 How to reach me: email: suzanmanasreh@gmail.com
 - 😄 Pronouns: she/her
 

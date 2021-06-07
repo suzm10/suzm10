@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on nothing specific
+- 🌱 I’m currently learning JavaScript with IBM Accelerate
+- 📫 How to reach me: email: suzanmanasreh@gmail.com
+- 😄 Pronouns: she/her
+
 <!--
 **suzm10/suzm10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

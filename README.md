@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on an assignment that uses React
-- 🌱 I’m currently learning javscript web development with [the oding project](https://www.theodinproject.com/dashboard)
+- 🌱 I’m currently learning javscript web development through [the odin project](https://www.theodinproject.com/dashboard)
 - 📫 How to reach me: email: suzanmanasreh@gmail.com
 - 😄 Pronouns: she/her
 

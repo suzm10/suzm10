@@ -2,8 +2,8 @@
 
 - 🔭 I’m currently working on an assignment that uses React
 - 🌱 I’m currently learning javscript web development through [the odin project](https://www.theodinproject.com/dashboard)
-- 📫 How to reach me: [linkedin](https://www.linkedin.com/in/suzan-manasreh/)
 - 💬 Ask me about object orientied programming or java/js basics
+- 📫 How to reach me: [linkedin](https://www.linkedin.com/in/suzan-manasreh/)
 - 😄 Pronouns: she/her
 
 <!--

@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on an e-commerce website prototype using React
+- 🔭 I’m currently working on a static website for a lab at KSU using react, next.js, and tailwind css
+- 🤔 I’m looking for help with making my static website styled properly and reponsive
 - 🌱 I’m currently learning javscript web development through [the odin project](https://www.theodinproject.com/dashboard)
 - 💬 Ask me about object orientied programming or java/js basics
 - 📫 How to reach me: [linkedin](https://www.linkedin.com/in/suzan-manasreh/)

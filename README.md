@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on a static website for a lab at KSU using react, next.js, and tailwind css
 - 🤔 I’m looking for help with making my static website styled properly and reponsive
-- 🌱 I’m currently learning web development through [The University of Helsinki's full stack open course](https://fullstackopen.com/en/)
+- 🌱 I’m currently learning web development through The University of Helsinki's [full stack open course](https://fullstackopen.com/en/)
 - 💬 Ask me about object orientied programming, java/js basics, react, tailwind css styling, etc..
 - 📫 How to reach me: [linkedin](https://www.linkedin.com/in/suzan-manasreh/)
 - 😄 Pronouns: she/her

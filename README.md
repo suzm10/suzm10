@@ -2,8 +2,6 @@ Hi, I'm Suzan!
 
 About me: BSMS student at Georgia Tech
 
-Interests: Whatever the project requires
-
 Currently reading: Heath's Scientific Computing
 <!--
 **suzm10/suzm10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
